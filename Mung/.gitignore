@@ -1,0 +1,12 @@
+debug
+release
+build
+bin
+obj
+*.cache
+*.suo
+*.cache
+*.user
+*.orig
+.idea
+_ReSharper*
